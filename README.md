@@ -34,4 +34,3 @@ I am always open to discussing quantitative research, fintech, or data science o
 * **GitHub:** [github.com/inakisalcedo](https://github.com/inakisalcedo)
 
 ---
-© 2026 - Developed by Iñaki Salcedo
